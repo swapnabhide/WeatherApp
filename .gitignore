@@ -47,3 +47,4 @@ Temporary Items
 __pycache__
 */__pycache__
 */__pycache__/*
+services/utils/secrets.py
